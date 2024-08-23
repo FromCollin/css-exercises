@@ -1,4 +1,18 @@
-p{
+.odd{
     background-color: rgb(192, 137, 145);
     font-family: Verdana, DejaVu, sans-serif;
+}
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#num2id {
+   color: blue;
+   font-size: 36px; 
+}
+
+#num4id {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
 }
